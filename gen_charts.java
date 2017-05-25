@@ -1,5 +1,3 @@
-package it.charts_generator;
-
 /**
  * Created by alessandra zullo on 24/05/17.
  */
